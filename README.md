@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 我的社交账户 / My social account
 
-[![](https://img.shields.io/badge/Shiinafan-blue?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/Shiinafan)
+[![](https://img.shields.io/badge/Shiinafan-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Shiinafan)
 [![](https://img.shields.io/badge/BiliBili-169fe6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/86894342)
 
 ### 我的电子邮箱 / My E-Mail
