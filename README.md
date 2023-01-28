@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 -->
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=QingXia-Ela&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=QingXia-Ela&hide=css,html&layout=compact&langs_count=8)
 
 [个人博客 / My Blog](https://blog.shiinafan.top/)
 
