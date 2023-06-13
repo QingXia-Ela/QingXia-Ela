@@ -4,7 +4,7 @@
 
 I am a web front-end developer.And Still keep learning.
 
-[详细自我介绍(Chinese)](https://blog.shiinafan.top/about/)
+[Self-Intro(Chinese)](https://blog.shiinafan.top/about/)
 
 <!--
 **QingXia-Ela/QingXia-Ela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
