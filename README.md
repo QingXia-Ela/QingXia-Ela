@@ -26,11 +26,6 @@ Here are some ideas to get you started:
 
 [个人博客 / My Blog](https://blog.shiinafan.top/)
 
-### 我的社交账户 / My social account
-
-[![](https://img.shields.io/badge/Shiinafan-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Shiinafan)
-[![](https://img.shields.io/badge/BiliBili-169fe6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/86894342)
-
 ### 我的电子邮箱 / My E-Mail
 
 [![](https://img.shields.io/badge/Elahere-@163.com-red?style=flat-square)](mailto:elahere@163.com)
